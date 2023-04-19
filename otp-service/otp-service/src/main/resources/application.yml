@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: "otp-service"
+  profiles:
+    active: "dev"
+    group:
+      dev:
+        - "dev-smtp"
+        - "dev-db"
+        - "dev-otp"
+        - "dev-email"
+        - "dev-swagger"
