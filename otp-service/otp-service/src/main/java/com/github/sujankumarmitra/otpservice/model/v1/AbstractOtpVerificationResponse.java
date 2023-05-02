@@ -32,4 +32,4 @@ public abstract class AbstractOtpVerificationResponse implements OtpVerification
                 ", attemptsRemaining=" + getAttemptsRemaining() +
                 '}';
     }
-}
+} 
