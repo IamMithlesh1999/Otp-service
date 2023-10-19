@@ -77,3 +77,4 @@ ENDPOINTS:
    1. [application-dev-smtp.yml](src/main/resources/application-dev-smtp.yml)
    2. [application-dev-db.yml](src/main/resources/application-dev-db.yml)
 3. Run `mvnw spring-boot:run`
+4. Save and changes
